@@ -71,7 +71,7 @@ def robot(comandos):
                     ypos = posAy
         else: # quando encontramos o H, damos save das variaveis na lista, ficam todas a zero e a direcao atual passa a ypos
             lista.append((xneg, yneg, xpos, ypos))
-            direcaoAtual = ypos
+            direcaoAtual = "ypos"
             xneg = 0
             yneg = 0
             xpos = 0
