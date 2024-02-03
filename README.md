@@ -1,3 +1,3 @@
-# LA2 22/23
+# LA2
 Página da disciplina
 https://haslab.github.io/LA2/
